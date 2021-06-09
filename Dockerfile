@@ -1,4 +1,4 @@
-FROM bitnami/drupal-force-failure
+FROM bitnami/drupal
 LABEL maintainer "Bitnami <containers@bitnami.com>"
 
 ## Change user to perform privileged actions
